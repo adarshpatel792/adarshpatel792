@@ -93,8 +93,8 @@
 
 ## 📌 Featured Projects
  
-- 🔹 **Flight Management** –   A production-oriented Flight Management Web App
-- 🔹 **Loan Application** –   
+- 🔹 **Flight Management** –  A production-oriented Flight Management Web App.
+- 🔹 **Loan Application** –   A production-quality full-stack loan application portal.
 
 ---
 
