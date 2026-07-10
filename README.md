@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar Patel</h1>
 <h3 align="center">Backend & Frontend Developer • AI Enthusiast</h3>
 
-<img align="right" alt="Coding" width="380" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nishu-06&label=Profile%20Views&color=0e75b6&style=flat" alt="nishu-06" />
-</p>
-
 ---
 
 ## 🚀 About Me
