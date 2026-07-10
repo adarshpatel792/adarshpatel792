@@ -100,7 +100,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 **pateladarsh1188@gmail.com**
+- 📧 **adarshpatel792@gmail.com**
 - 🔗 <a href="https://www.linkedin.com/in/adarshpatel792/">LinkedIn</a>
 
 ---
