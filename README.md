@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi 👋, I'm Adarsh Kumar Patel
+Backend & Frontend Developer • AI Enthusiast 
+Coding
 
-<!--
-**adarshpatel792/adarshpatel792** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+adarshpatel792
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+🎓 MCA @ Savitribai Phule University (D.Y. Patil Institute of Master's of Computer Application and Management) (CGPA: 7.23)
+💻 Passionate about Backend Development & Scalable Systems
+🧠 Strong in Data Structures and Algorithms
+🤖 Working on Generative AI, RAG & LLM-powered Applications
+🏆 
+🔥 
