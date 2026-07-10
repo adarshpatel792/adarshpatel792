@@ -1,5 +1,5 @@
-                                                     Hi 👋, I'm Adarsh Kumar Patel
-                                              Backend & Frontend Developer • AI Enthusiast 
+                                    Hi 👋, I'm Adarsh Kumar Patel
+                            Backend & Frontend Developer • AI Enthusiast 
 Coding
 
 
